@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Prevenci-nDelAcoso/static/css/main.f3c8344c.chunk.css",
-    "main.js": "/Prevenci-nDelAcoso/static/js/main.724970b6.chunk.js",
-    "main.js.map": "/Prevenci-nDelAcoso/static/js/main.724970b6.chunk.js.map",
+    "main.js": "/Prevenci-nDelAcoso/static/js/main.551ffccd.chunk.js",
+    "main.js.map": "/Prevenci-nDelAcoso/static/js/main.551ffccd.chunk.js.map",
     "runtime-main.js": "/Prevenci-nDelAcoso/static/js/runtime-main.40f60798.js",
     "runtime-main.js.map": "/Prevenci-nDelAcoso/static/js/runtime-main.40f60798.js.map",
     "static/js/2.235fc062.chunk.js": "/Prevenci-nDelAcoso/static/js/2.235fc062.chunk.js",
     "static/js/2.235fc062.chunk.js.map": "/Prevenci-nDelAcoso/static/js/2.235fc062.chunk.js.map",
     "index.html": "/Prevenci-nDelAcoso/index.html",
-    "precache-manifest.60dbe002c887e0d6e769d3419016b3ff.js": "/Prevenci-nDelAcoso/precache-manifest.60dbe002c887e0d6e769d3419016b3ff.js",
+    "precache-manifest.c8b2d4ec864f372e954b17858a591137.js": "/Prevenci-nDelAcoso/precache-manifest.c8b2d4ec864f372e954b17858a591137.js",
     "service-worker.js": "/Prevenci-nDelAcoso/service-worker.js",
     "static/css/main.f3c8344c.chunk.css.map": "/Prevenci-nDelAcoso/static/css/main.f3c8344c.chunk.css.map",
     "static/js/2.235fc062.chunk.js.LICENSE.txt": "/Prevenci-nDelAcoso/static/js/2.235fc062.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.40f60798.js",
     "static/js/2.235fc062.chunk.js",
     "static/css/main.f3c8344c.chunk.css",
-    "static/js/main.724970b6.chunk.js"
+    "static/js/main.551ffccd.chunk.js"
   ]
 }

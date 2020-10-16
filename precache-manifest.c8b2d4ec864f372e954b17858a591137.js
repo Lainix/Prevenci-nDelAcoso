@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7457fa08484dc54545ee4a1b15fc48eb",
+    "revision": "e1a721432289c47fab2250fffb2787e4",
     "url": "/Prevenci-nDelAcoso/index.html"
   },
   {
-    "revision": "8df0f3df87392dd74e04",
+    "revision": "17664ff527d2d5be2559",
     "url": "/Prevenci-nDelAcoso/static/css/main.f3c8344c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Prevenci-nDelAcoso/static/js/2.235fc062.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8df0f3df87392dd74e04",
-    "url": "/Prevenci-nDelAcoso/static/js/main.724970b6.chunk.js"
+    "revision": "17664ff527d2d5be2559",
+    "url": "/Prevenci-nDelAcoso/static/js/main.551ffccd.chunk.js"
   },
   {
     "revision": "bbe4b875479e78dfc1a8",

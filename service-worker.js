@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Prevenci-nDelAcoso/precache-manifest.77b74665504712db55c325369dd650c1.js"
+  "/Prevenci-nDelAcoso/precache-manifest.60dbe002c887e0d6e769d3419016b3ff.js"
 );
 
 self.addEventListener('message', (event) => {

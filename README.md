@@ -9,7 +9,7 @@ Página digital para concientizar a los alumnos y maestros de los peligros cotid
 ##
 ## Repositorio GitHub: 
 
-GitHub: https://lainix.github.io/Prevenci-nDelAcoso/
+GitHub: https://github.com/Lainix/Prevenci-nDelAcoso
 
 ##
 ## Product backlog
